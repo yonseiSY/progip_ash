@@ -3,7 +3,7 @@
 - ASH 기법이 오류로 인한 스코어 드리프트를 완화하는지 테스트
 
 ### 해야 할 일
-- PyTorchFi 또는 custom bit-flip injector 를 통합하여  
+- PyTorchFi 또는 custom bit-flip injector (https://github.com/4thMemorize/Pytorch-Fault-Simulator.git) 를 통합하여  
   - 단일 비트 플립 (single-bit flip)  
   - 이중 비트 플립 (double-bit flip)  
   - 버스트 플립 (burst flip)  
