@@ -1,0 +1,6 @@
+layer_name,bit_position,auroc,fpr,detection_error,auroc_fi,fpr_fi,detection_error_fi
+conv1,31,90.32,39.29,15.84,90.32,39.18,15.82
+layer1.0.conv1,31,90.32,39.29,15.84,90.32,39.07,15.84
+layer1.0.conv2,31,90.32,39.29,15.84,90.32,39.31,15.84
+layer1.1.conv1,31,90.32,39.29,15.84,90.32,39.34,15.84
+layer1.1.conv2,31,90.32,39.29,15.84,90.32,39.27,15.82
