@@ -1,0 +1,3 @@
+layer_name,num_flips,start_bit,auroc,fpr,detection_error,auroc_fi,fpr_fi,detection_error_fi
+conv1,2,0,90.32,39.29,15.84,72.95,60.62,25.21
+conv1,2,1,90.32,39.29,15.84,72.34,73.07,26.42
